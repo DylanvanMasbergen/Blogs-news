@@ -1,0 +1,22 @@
+/*<---------- Table ---------->*/
+
+body{ background-color: #cccccc;
+	  font-family: 'Helvetica Neue', Helvetica, Arial;
+	  font-size: 14px;
+	  line-height: 20px;
+	  font-weight: 400;
+	  color: #3b3b3b;
+	  -webkit-font-smoothing: antialiased;
+	  font-smoothing: antialiased;
+	
+
+ }
+
+thead{	color: #ffffff; 
+		background: #2980b9;
+
+
+}
+
+/*<----------Menu bar---------->*/
+
